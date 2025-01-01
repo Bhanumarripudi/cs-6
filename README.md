@@ -47,8 +47,6 @@ This project showcases the feasibility of sEMG-based control systems and contrib
 
 ## Gantt Chart for Extended Project (PROJ3999)  
 
-  ## Gantt Chart for Extended Project (PROJ3999)
-
 | Task                             | Duration      | Start Date | End Date   | Milestone                     |
 |----------------------------------|---------------|------------|------------|--------------------------------|
 | Literature Review and Research   | 2 weeks       | 01/01/2025 | 14/01/2025 | Selection of Dataset and Model |
