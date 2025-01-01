@@ -4,7 +4,7 @@
 **Dr. Jaya Prakash Sahoo**  
 
 ### Cluster Name:  
-**CS6 (AI/ML, VLSI, Comm., CSP, Power Systems)**  
+**CS6 **  
 
 ### Project Coordinator:  
 **Dr. Ambar Bajpai**  
@@ -47,7 +47,7 @@ This project showcases the feasibility of sEMG-based control systems and contrib
 
 ## Gantt Chart for Extended Project (PROJ3999)  
 
-*(Insert your Gantt chart here as an image or link)*  
+  
 
 ---
 
